@@ -1,4 +1,5 @@
-# EGNN
+# EGNN: Exploring Structure-Level Neighborhoods in Graphs With Varying Homophily Ratios
+This is the implementation of GRAIN
 
 ## Training
 
